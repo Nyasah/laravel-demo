@@ -83,6 +83,7 @@
                 </div>
 
                 <div class="links">
+
                     <a href="https://laravel.com/docs">Documentation Test</a>
                     <a href="https://laracasts.com">Laracasts Test</a>
                     <a href="https://laravel-news.com">News testing</a>
