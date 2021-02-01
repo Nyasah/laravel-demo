@@ -14,8 +14,3 @@
 Route::get('/', function () {
     return view('welcome');
 });
-
-Route::get('/git', function () {
-    return view('new git hub lakshmi');
-});
-
