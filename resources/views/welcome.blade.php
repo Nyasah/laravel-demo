@@ -88,7 +88,9 @@
                     <a href="https://laravel-news.com">lara News</a>
                     <a href="https://forge.laravel.com">Forge</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
-                    <a href="https://github.com/laravel/laravel">Bug changes</a>
+                    <a href="https://github.com/laravel/laravel">About</a>
+                    <a href="https://github.com/laravel/laravel">About changes</a>
+
                 </div>
             </div>
         </div>
