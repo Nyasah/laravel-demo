@@ -92,7 +92,7 @@
                     <a href="https://github.com/laravel/laravel">About</a>
                     <a href="https://github.com/laravel/laravel">Location</a>
                     <a href="https://github.com/laravel/laravel">Contact Us</a>
-                    <a href="https://github.com/laravel/laravel">Address</a>
+                    <a href="https://github.com/laravel/laravel">Where to find us</a>
                 </div>
             </div>
         </div>
