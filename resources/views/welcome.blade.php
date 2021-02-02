@@ -90,6 +90,8 @@
                     <a href="https://forge.laravel.com">Forge</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
                     <a href="https://github.com/laravel/laravel">About</a>
+                    <a href="https://github.com/laravel/laravel">Location</a>
+                    <a href="https://github.com/laravel/laravel">Contact Us</a>
                 </div>
             </div>
         </div>
