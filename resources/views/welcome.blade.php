@@ -97,7 +97,7 @@
                     <a href="https://github.com/laravel/laravel">Location</a>
                     <a href="https://github.com/laravel/laravel">Contact Us</a>
                     <a href="https://github.com/laravel/laravel">Where to find us</a>
-                    <a href="https://github.com/laravel/laravel">Phone Number</a>
+                    <a href="https://github.com/laravel/laravel">Mobile Number</a>
 
                 </div>
             </div>
