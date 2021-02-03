@@ -73,6 +73,7 @@
                     @else
                         <a href="{{ route('login') }}">Login</a>
                         <a href="{{ route('register') }}">Register</a>
+                        <a href="{{ route('Course') }}">Course</a>
                     @endauth
                 </div>
             @endif
@@ -83,11 +84,21 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Documentation New</a>
-                    <a href="https://laracasts.com">Laracasts Test</a>
-                    <a href="https://laravel-news.com">News testing</a>
-                    <a href="https://forge.laravel.com">Forge </a>
-                    <a href="https://github.com/laravel/laravel">GitHub </a>
+
+
+                    <a href="https://laravel.com/docs">Main Documentation</a>
+                    <a href="https://laracasts.com">Laracasts</a>
+                    <a href="https://laravel-news.com">News</a>
+                    <a href="https://forge.laravel.com">Forge</a>
+                    <a href="https://github.com/laravel/laravel">GitHub information</a>
+                    <a href="https://github.com/laravel/laravel">About</a>
+                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="https://github.com/laravel/laravel">About information</a>
+                    <a href="https://github.com/laravel/laravel">Location</a>
+                    <a href="https://github.com/laravel/laravel">Contact Us</a>
+                    <a href="https://github.com/laravel/laravel">Where to find us</a>
+                    <a href="https://github.com/laravel/laravel">Phone Number</a>
+
                 </div>
             </div>
         </div>
