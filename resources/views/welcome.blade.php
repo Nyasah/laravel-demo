@@ -94,7 +94,7 @@
                     <a href="https://forge.laravel.com">Forge21</a>
                     <a href="https://github.com/laravel/laravel">GitHub information</a>
                     <a href="https://github.com/laravel/laravel">About</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="https://github.com/laravel/laravel">phne num</a>
                   
                 </div>
             </div>
