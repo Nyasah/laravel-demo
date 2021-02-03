@@ -95,12 +95,7 @@
                     <a href="https://github.com/laravel/laravel">GitHub information</a>
                     <a href="https://github.com/laravel/laravel">About</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
-                    <a href="https://github.com/laravel/laravel">About information</a>
-                    <a href="https://github.com/laravel/laravel">merge information</a>
-                    <a href="https://github.com/laravel/laravel">Location</a>
-                    <a href="https://github.com/laravel/laravel">Contact Us</a>
-                    <a href="https://github.com/laravel/laravel">Where to find us</a>
-                    <a href="https://github.com/laravel/laravel">Mobile Number 1</a>
+                  
                 </div>
             </div>
         </div>
