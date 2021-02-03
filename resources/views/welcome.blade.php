@@ -85,6 +85,7 @@
 
                 <div class="links">
 
+
                     <a href="https://laravel.com/docs">Main Documentation</a>
                     <a href="https://laracasts.com">Laracasts</a>
                     <a href="https://laravel-news.com">News</a>
@@ -97,6 +98,7 @@
                     <a href="https://github.com/laravel/laravel">Contact Us</a>
                     <a href="https://github.com/laravel/laravel">Where to find us</a>
                     <a href="https://github.com/laravel/laravel">Phone Number</a>
+
                 </div>
             </div>
         </div>
