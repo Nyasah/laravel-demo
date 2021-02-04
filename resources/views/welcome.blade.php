@@ -89,7 +89,7 @@
 
                     <a href="https://laravel.com/docs">Main Documentation</a>
                     <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
+                    <a href="https://laravel-news.com">laravel News </a>
                     <a href="https://forge.laravel.com">Forge</a>
                     <a href="https://forge.laravel.com">Forge21</a>
                     <a href="https://github.com/laravel/laravel">GitHub information</a>
