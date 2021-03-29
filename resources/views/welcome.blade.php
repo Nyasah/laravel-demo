@@ -94,7 +94,7 @@
                      <a href="https://laravel-news.com">TestNews</a>
                     <a href="https://laracasts.com">Laracasts Demo</a>
                     <a href="https://laravel-news.com">laravel </a>
-
+                    <a href="https://laravel-news.com">About </a>
                 </div>
             </div>
         </div>
