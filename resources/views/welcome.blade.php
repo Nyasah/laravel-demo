@@ -95,7 +95,8 @@
                     <a href="https://laracasts.com">Laracasts Demo</a>
                     <a href="https://laravel-news.com">laravel </a>
                     <a href="https://laravel-news.com">About </a>
-                    <a href="https://laravel-news.com">About3 </a>
+                    <a href="https://laravel-news.com">About - Mohammed </a>
+
                 </div>
             </div>
         </div>
